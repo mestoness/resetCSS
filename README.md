@@ -1,6 +1,20 @@
 # resetCSS 
-### <p align="left"><img src="https://img.shields.io/github/license/mestoness/resetCSS?style=for-the-badge"/> <img src="https://img.shields.io/npm/v/resetCSS?style=for-the-badge"/>  <img src="https://img.shields.io/npm/dt/resetCSS?style=for-the-badge"/> </p>
+### <p align="left"> <img src="https://img.shields.io/github/license/mestoness/resetCSS?style=for-the-badge"/> <img src="https://img.shields.io/npm/v/@mestoness/resetcss?style=for-the-badge"/>  <img src="https://img.shields.io/npm/dt/@mestoness/resetcss?style=for-the-badge"/> </p>
 ## Author 
 Ahmet Baki Memiş
 ## Contact
 <a href="mailto:resistmaze@gmail.com">Use this address to contact me</a>
+<h3><a href="https://github.com/mestoness/resetcss/archive/master.zip">Download (.zip)</a></h3>	
+
+## NPM
+
+```
+npm install @mestoness/resetcss
+
+```
+
+## CDN
+
+```html
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/@mestoness/resetcss/dist/css/resetCSS.min.css">
+```	
